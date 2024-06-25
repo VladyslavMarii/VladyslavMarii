@@ -8,8 +8,7 @@ I am currently a 3rd-year student at Taras Shevchenko National University of Kyi
 
 * 🌍  I'm based in Ivano-Frankivsk
 * ✉️  You can contact me at [mariyvladyslav@gmail.com](mailto:mariyvladyslav@gmail.com)
-* 🚀  I'm currently working on [File Exchanger](http://github.com/VladyslavMarii/fileExchanger)
-* 🧠  I'm learning Spring Framework, Angular, API
+* 🚀  My last project [File Exchanger](http://github.com/VladyslavMarii/fileExchanger)
 * 🤝  I'm open to collaborating on java projects
 * ⚡  I have a cat named Siri
 
