@@ -6,7 +6,7 @@ Java Developer
 
 I am currently a 3rd-year student at Taras Shevchenko National University of Kyiv, pursuing Computer Science. During my academic journey, I have actively engaged in practical projects and gained valuable insights into the industry. I am passionate about technology and continuously seek opportunities to apply my knowledge to real-world challenges. Eager to contribute to meaningful projects and expand my practical experience.
 
-* 🌍  I'm based in Ivano-Frankivsk
+* 🌍  I'm based in Kyiv
 * ✉️  You can contact me at [mariyvladyslav@gmail.com](mailto:mariyvladyslav@gmail.com)
 * 🚀  My last project [File Exchanger](http://github.com/VladyslavMarii/fileExchanger)
 * 🤝  I'm open to collaborating on java projects
