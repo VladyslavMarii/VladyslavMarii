@@ -28,7 +28,5 @@ I am currently a 3rd-year student at Taras Shevchenko National University of Kyi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/VladyslavMarii">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladyslavMarii&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&include_all_commits=true" alt="VladyslavMarii's GitHub stats" />
-</a>
+<a href="http://www.github.com/VladyslavMarii"><img src="https://github-readme-stats.vercel.app/api?username=VladyslavMarii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="VladyslavMarii's GitHub stats" /></a>
 
