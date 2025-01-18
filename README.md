@@ -1,23 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">A passionate software developer from Ukraine</h3>
+<h3 align="center">Software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladyslavmarii" alt="vladyslavmarii" /></a> </p>
 
-
-
-- 🔭 I’m currently working on **Developing program architecture in a Jetpack Compose desktop application, focused on creating a C2 platform for a fully autonomous FPV drone system. I’m also organizing and managing complex target structures in Kotlin Multiplatform.**
-
-- 🌱 I’m currently learning **Kotlin for Java Developers, The Raspberry Pi Platform and Python Programming for the Raspberry Pi, Professional Java SE Development, The Complete Java SE 17 Programming Course by Oracle**
-
-- 👯 I’m looking to collaborate on **DevOps practices and Kotlin-based projects, particularly those involving Jetpack Compose and Kotlin Multiplatform. I’m also interested in Java development.**
-
-- 🤝 I’m looking for help with **Advanced-level Kotlin Multiplatform (KMP) and Jetpack Compose techniques.**
-
-- 💬 Ask me about **Java, DevOps, Kotlin Multiplatform (KMP) development, Jetpack Compose for Desktop, and strategies for organizing assets and program architecture in complex projects.**
-
-- 📫 How to reach me **mariyvladyslav@gmail.com**
-
-- ⚡ Fun fact **The force is with me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
